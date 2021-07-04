@@ -14,7 +14,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://ygg.tomasgl.ru:61933`
   * `tls://ygg.tomasgl.ru:61944`
 
-* Moscow, vps public node, operated by [Nikat](https://t.me/nikat_meh)
+* Moscow, vps public node, operated by [Nikat](https://conversations.im/i/nikat@yggnode.cf?omemo-sid-616026764=5b68d822a9089a725507b9a0a67925c8e3430fbf0acd5bc14feb2e371e75366d)
   * `tcp://yggnode.cf:18228`
   * `tls://yggnode.cf:18229`
 
